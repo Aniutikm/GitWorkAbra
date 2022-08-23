@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitWorkCodenameAbrakadabra", "GitWorkCodenameAbrakadabra\GitWorkCodenameAbrakadabra.csproj", "{D9E79901-F281-433E-9E1C-D564CE29C263}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9E79901-F281-433E-9E1C-D564CE29C263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E79901-F281-433E-9E1C-D564CE29C263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9E79901-F281-433E-9E1C-D564CE29C263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9E79901-F281-433E-9E1C-D564CE29C263}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5EC1059-53FA-4B62-B45F-341C0B173A4B}
+	EndGlobalSection
+EndGlobal
